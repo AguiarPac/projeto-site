@@ -14,3 +14,27 @@ main {
     box-shadow:3px 3px 5px rgb(13, 11, 11);
 
 }
+
+h1 {
+    font-size: 2cm;
+    color: blue;
+}
+h2 {
+    font-size: medium;
+    color:blueviolet;
+}
+
+img.lado {
+    float: right;
+}
+
+a {
+    text-decoration: dashed;
+    font-weight: bold;
+    color: aqua;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: pink;
+}
